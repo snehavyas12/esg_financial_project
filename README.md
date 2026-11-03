@@ -140,9 +140,9 @@ After comparing multiple regression algorithms, **Linear Regression** delivered 
 * Highest predictive accuracy
 * Lowest prediction error
 * Excellent generalization capability
-* Captured complex non-linear relationships
+* Captured complex linear relationships
 * Consistent performance during cross-validation
-* 
+  
 ---
 
 # 🔍 Feature Importance
@@ -203,7 +203,6 @@ ESG-Score-Prediction/
 * CatBoost
 * Matplotlib
 * Seaborn
-* SHAP *(if implemented)*
 
 ---
 
